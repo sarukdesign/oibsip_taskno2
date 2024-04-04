@@ -1,33 +1,31 @@
-
-
-
-
-
+@media (max-width:1400px){
+    .hero-banner h1{
+        font-size: 2.5rem;
+     } 
+    p{
+        font-size: 1rem;
+    }
+    h3{
+    font-size:1.25rem;
+}
+.hero-banner{
+        padding: 8rem 0 6rem;
+    }
+}
 
 @media (max-width:1200px){
-    .hero-banner{
-        padding: 10rem 0 7rem;
-    }
- .hero-banner h1{
-    font-size: 2.5rem;
- }  
  .image-box img{
     width: 100%;
  }
 }
 
 @media (max-width:991px){
-    p{
-        font-size: 1rem;
-    }
+   
     .hero-banner h1{
         font-size:1.563rem;
      } 
     .nav-link span{
         display: inline-block;
-    }
-    .about-sec p{
-        font-size: 1rem;
     }
     .about-info span{
         font-size: 1rem;
