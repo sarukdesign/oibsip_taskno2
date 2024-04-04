@@ -1,0 +1,52 @@
+
+
+
+
+
+
+@media (max-width:1200px){
+    .hero-banner{
+        padding: 10rem 0 7rem;
+    }
+ .hero-banner h1{
+    font-size: 2.5rem;
+ }  
+ .image-box img{
+    width: 100%;
+ }
+}
+
+@media (max-width:991px){
+    p{
+        font-size: 1rem;
+    }
+    .hero-banner h1{
+        font-size:1.563rem;
+     } 
+    .nav-link span{
+        display: inline-block;
+    }
+    .about-sec p{
+        font-size: 1rem;
+    }
+    .about-info span{
+        font-size: 1rem;
+}
+}
+@media (max-width:768px){
+    .wrapper{
+        padding-top: 3.125rem;
+        padding-bottom: 3.125rem;
+     }
+    .hero-banner{
+        padding: 6rem 0 7rem;
+    }
+}
+@media (max-width:575px){
+    .hero-banner p{
+        font-size: 1rem;
+    }
+    .footer-sec .social a{
+        margin-right: 0.25rem;
+    }
+}
